@@ -11,7 +11,7 @@
 
 ### 📌 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank">
+<a href="www.linkedin.com/in/pravallika-toomala-80647b259" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" />
 </a>
 <a href="https://github.com/saipravallika89" target="blank">
