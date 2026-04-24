@@ -23,8 +23,6 @@
 </p>
 
 ---
-
-## 💻 Languages & Tools
 ## 💻 Languages & Tools
 
 ### 🧠 Programming Languages
@@ -67,24 +65,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
-</p>
 
----
-
-## 📈 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📌 Check Out My Portfolio
-👉 Add your portfolio link here once ready!
-
----
-
-⭐ *Thanks for visiting my profile!*
