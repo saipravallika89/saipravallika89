@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Sri Pravallika</h1>
-<h3 align="center">A Passionate Data Analytics & Cloud Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Analytics & Cloud Enthusiast </h3>
 
 - 🔭 I’m currently working on **Data Analytics, Python**
 - 🌱 I’m currently learning **Power BI, Tableau, Data Engineering, and Kubernetes**
