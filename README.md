@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Data Analytics, Python**
 - 🌱 I’m currently learning **Power BI, Tableau, Data Engineering, and Kubernetes**
 - 💬 Ask me about **Python, SQL, Data Analysis, AI**
-- 📫 How to reach me **[saipravallika89@gmail.com](mailto:saipravallika89@gmail.com)**
+- 📫 How to reach me **[saipravallika0912@gmail.com](mailto:saipravallika0912@gmail.com)**
 - 🎵 Fun fact: **I love analyzing data as much as I love music! 🎵**
 
 ---
